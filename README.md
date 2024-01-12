@@ -1,6 +1,6 @@
 # Get Started On Chrome-based Browser
 
-1. Clone the repo.
+1. Clone the repo OR download zip & extract to your PC.
 ```bash
 git clone https://github.com/tengxing-tan/epat-with-one-click.git
 ```
