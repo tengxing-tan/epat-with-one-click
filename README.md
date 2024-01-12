@@ -12,3 +12,7 @@
 2. (Optional) Pin the extension
 3. Open "Evaluation Form", click the extension.
 4. Select rating. That's it.
+
+# Example
+![example 1](images/pic_1.png)
+![example 2](images/pic_2.png)
