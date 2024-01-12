@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/tengxing-tan/epat-with-one-click.git
 ```
-2. Open Chrome, go to [chrome://extensions/](chrome://extensions/)
+2. Open Chrome, go to `chrome://extensions/`
 3. On Developer mode (at top right)
 4. Click `Load unpacked`
 5. Choose the folder `epat-with-one-click`
