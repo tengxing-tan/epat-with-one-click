@@ -1,0 +1,42 @@
+body {
+    width: max-content;
+}
+
+h1 {
+    color: #1A478F;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+p {
+    color: #4d4d4d;
+    font-size: 1rem;
+    font-weight: 400;
+
+}
+
+#button-flex {
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.2rem;
+    margin: 0.5rem 0;
+}
+
+.button {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 0.5rem;
+    min-width: 3rem;
+    font-size: 1.25rem;
+    font-family: monospace;
+    padding: 0.5rem;
+}
+
+.button:hover {
+    background-color: #15A195;
+    color: white;
+}

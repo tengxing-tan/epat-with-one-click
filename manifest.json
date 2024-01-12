@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "E-PAT Select All Extensions",
+    "description": "Extension For UMPSA Student who felt hassle to click all smile in E-PAT",
+    "version": "1.0",
+    "action": {
+        "default_popup": "./popup/hello.html",
+        "default_icon": "./images/cowboy-hat-face-emoji.png"
+    },
+    "externally_connectable": {
+        "matches": [
+            "https://std-comm.ump.edu.my/ecommstudent/*"
+        ]
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}
